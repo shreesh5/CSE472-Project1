@@ -1,5 +1,7 @@
 ## CSE472-Project1  
 
+This project visualizes a network of 10 prominent NBA players and 50 of their followers each. It calculates degree distribution, eigenvector centrality and betweenness centrality for the same. Built using: Python, NetworkX and NumPy.
+
 Steps to Run Our Code:  
 
 ---> To create a JSON file for your Twitter Credentials  
